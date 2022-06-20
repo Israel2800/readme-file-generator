@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator-challenge",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel2800/readme-generator-challenge.git"
+  },
+  "author": "Israel Aguilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Israel2800/readme-generator-challenge/issues"
+  },
+  "homepage": "https://github.com/Israel2800/readme-generator-challenge#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
