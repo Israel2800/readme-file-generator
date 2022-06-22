@@ -36,7 +36,7 @@ function generateREADME(answers) {
   [![license](https://img.shields.io/badge/License-${answers.license
       .toUpperCase()
       .split('-')
-      .join('v')}-brightred.svg)](https://choosealicense.com/licenses/${answers.license}/)
+      .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${answers.license}/)
 
   ## Table of Content
   * [ Project Links ](#Project-Links)
