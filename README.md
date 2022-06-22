@@ -51,7 +51,7 @@
   To use this app you will need to download and install the terminal for mac or gitbash for windows. You may also need to install node.js and npm using the terminal. You will open the project in the code editor of your choice and then open the terminal and type "npm i inquirer" to install the dependency inquirer package. Finally you will be able to use the app typing on your terminal "node index.js" and click enter.
   
   ## Credits and Reference
-  The following link helped me to add Badges: "How to Add Badges to a GitHub Repository"
+  The following link helped me to add Badges: https://betterprogramming.pub/add-badges-to-a-github-repository-716d2988dc6a
 
   ## Tests
   npm test
