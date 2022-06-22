@@ -21,7 +21,7 @@
   #
 
   ##  Project Links
-  https://github.com/israel2800/https://github.com/Israel2800/readme-generator-challenge<br>
+  https://github.com/Israel2800/readme-generator-challenge<br>
   
 
   ## Screenshots-Demo
