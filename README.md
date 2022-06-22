@@ -28,6 +28,7 @@
   ## Screenshots-Demo
   
   ![Screenshot of the README file generated.](Develop/images/screenshot-1.png)
+  ![Screenshot of the README file generated.](Develop/images/screenshot-2.png)
   
   ## Project Objective
   Allow users to create a professional README file answering a couple of questions by the command line; with this program they will be able to organize and show the world how they create there own projects with this professional README file generator. 
