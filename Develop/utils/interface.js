@@ -26,17 +26,17 @@ function generateREADME(answers) {
 
   [![github-follow](https://img.shields.io/github/followers/${answers.username
       .trim()
-      .toLowerCase()}?label=Follow&logoColor=purple&style=social)](https://github.com/${answers.username.trim().toLowerCase()})
+      .toLowerCase()}?label=Follow&logoColor=blue&style=social)](https://github.com/${answers.username.trim().toLowerCase()})
   [![project-languages-used](https://img.shields.io/github/languages/count/${answers.username
       .trim()
       .toLowerCase()}/${answers.repoName.trim()}?color=important)](https://github.com/${answers.username.trim().toLowerCase()}/${answers.repoName.trim()})
   [![project-top-language](https://img.shields.io/github/languages/top/${answers.username
       .trim()
-      .toLowerCase()}/${answers.repoName.trim()}?color=blueviolet)](https://github.com/${answers.username.trim().toLowerCase()}/${answers.repoName.trim()})
+      .toLowerCase()}/${answers.repoName.trim()}?color=orange)](https://github.com/${answers.username.trim().toLowerCase()}/${answers.repoName.trim()})
   [![license](https://img.shields.io/badge/License-${answers.license
       .toUpperCase()
       .split('-')
-      .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${answers.license}/)
+      .join('v')}-brightred.svg)](https://choosealicense.com/licenses/${answers.license}/)
 
   ## Table of Content
   * [ Project Links ](#Project-Links)

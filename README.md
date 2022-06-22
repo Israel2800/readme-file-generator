@@ -34,7 +34,7 @@
 
   ## Technologies 
   ```
-  Node, ES6
+  Node.js, JavaScript, Markdowns, npm inquirer
   ```
   
   ## Installation
