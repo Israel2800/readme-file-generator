@@ -17,7 +17,7 @@ const writeFileAsync = promisify(writeFile);
 
 // Funcionts
 // Inital message
-console.log('Welcome to Github README generator!');
+console.log('Welcome to the Github README generator!');
 
 //Create a function to prompt user questions
 function promptUser() {
@@ -35,7 +35,7 @@ async function init() {
 
     await writeFileAsync('README.md', readme);
 
-		console.log('Successfully README.md file generated!');
+		console.log('The README file has been generated!');
 	} catch (err) {
 		console.log(err);
 	}

@@ -1,7 +1,4 @@
-// Get the current year
-let year = new Date().getFullYear();
-
-// Create a readme Template
+// Create a readme Interface
 
 function generateREADME(answers) {
 	//Set additional project links
@@ -24,6 +21,9 @@ function generateREADME(answers) {
 	return ` 
   # ${answers.title.toUpperCase()}
 
+  [![github-follow](https://img.shields.io/github/followers/${answers.username
+      .trim()
+      .toLowerCase()}?label=Follow&logoColor=purple&style=social)](https://github.com/${answers.username.trim().toLowerCase()})
   [![project-languages-used](https://img.shields.io/github/languages/count/${answers.username
       .trim()
       .toLowerCase()}/${answers.repoName.trim()}?color=important)](https://github.com/${answers.username.trim().toLowerCase()}/${answers.repoName.trim()})
@@ -33,7 +33,7 @@ function generateREADME(answers) {
   [![license](https://img.shields.io/badge/License-${answers.license
       .toUpperCase()
       .split('-')
-      .join('v')}-brightred.svg)](https://choosealicense.com/licenses/${answers.license}/)
+      .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${answers.license}/)
 
   ## Table of Content
   * [ Project Links ](#Project-Links)
